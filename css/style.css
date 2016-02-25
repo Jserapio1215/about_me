@@ -1,0 +1,23 @@
+body {
+	background-color: #F5F5DC;
+	font-family: cursive;
+
+}
+nav {
+	color: green;
+	font-size: 12;
+	text-align: center;
+}
+h1 {
+	color: green;
+}
+h2 {
+	color: blue;
+}
+p {
+	color: blue;
+}
+img {
+	border: 1px solid black;
+	padding: 5px;
+}
