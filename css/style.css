@@ -1,6 +1,6 @@
 body {
 	background-color: #F5F5DC;
-	font-family: cursive;
+	font-family: serif;
 
 }
 nav {
@@ -10,6 +10,7 @@ nav {
 }
 h1 {
 	color: green;
+	text-align: center;
 }
 h2 {
 	color: blue;
@@ -20,4 +21,7 @@ p {
 img {
 	border: 1px solid black;
 	padding: 5px;
+}
+li{
+	font-weight: bolder;
 }
