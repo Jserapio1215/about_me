@@ -24,9 +24,14 @@ img {
 	border: 1px solid black;
 	padding: 5px;
 }
-li.bold {
-	font-size: 24;
+.bold {
+	font-size: 24px;
+	font-weight: bold;
 }
 p.center {
 	text-align: center;
+}
+li {
+	margin-top: 40px;
+	list-style-type: none;
 }
