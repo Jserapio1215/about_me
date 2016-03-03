@@ -8,17 +8,21 @@ nav {
 	font-size: 12;
 	text-align: center;
 }
-h1.underline 	{
+.underline 	{
 	color: green;
 	text-align: center;
 	text-decoration: underline;
 }
-h2.underline {
+.underline {
 	color: blue;
 	text-decoration: underline;
 }
+hr {
+	clear: both;
+}
 p {
 	color: blue;
+	clear: both;
 }
 img {
 	border: 1px solid black;
@@ -28,10 +32,21 @@ img {
 	font-size: 24px;
 	font-weight: bold;
 }
-p.center {
+.center {
 	text-align: center;
 }
 li {
 	margin-top: 40px;
 	list-style-type: none;
+}
+.right {
+	float: right;
+	height: 50px;
+	width: 30%;
+
+}
+.main {
+	width: 500px;
+	height: 50px;
+	float: left;
 }
